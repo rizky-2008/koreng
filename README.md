@@ -6,10 +6,10 @@ Deskripsi Web Profil : Sebuah situs web yang dirancang untuk memperkenalkan indi
 
 Fitur :
 
-Penjelasan mengenai biodata
+- Penjelasan mengenai biodata
 
-Menampilkan karya-karya
+- Menampilkan karya-karya
 
-Informasi untuk menguhubungi pemilik
+- Informasi untuk menguhubungi pemilik
 
 Project Link :github.com/rizky-2008/koreng
