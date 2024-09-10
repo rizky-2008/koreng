@@ -12,4 +12,4 @@ Fitur :
 
 - Informasi untuk menguhubungi pemilik web
 
-Project Link :github.com/rizky-2008/koreng
+Project Link : github.com/rizky-2008/koreng
